@@ -1,0 +1,31 @@
+---
+title: "How to prepare a delicious **Chicken Penne**"
+author: "Farimah Asadi"
+date: "May, 6th 2021 "
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## The Ingredients(for 2 persons):
+
+
+* $250$ g penne
+* $125$ g chicken meat
+* $1$ onion
+* $2$ garlics
+* $20$ g butter
+* $20$ g parsley
+* $2$ paprika
+* $2$ tablespoons tomato paste
+* $2$ teaspoons of salt, pepper and turmeric
+* $3$ tablespoons of olive oil
+* $1$ tablespoon cream
+
+## The preparation:
+
+Cut the onions,garlics and paprika, and fry them in olive oil. Then add the meat,tomato paste and 2 teaspoons of salt, pepper and turmic. let them slowly cook. Now you can put the penne in boiling water for 8 minutess, Then roast them in butter and cream and add the parseley. 
+finally you can serve your penne with the wonderfull sous and some fresh vegetables.
+
+![Bon appetit!](penne.JPG)
